@@ -1,0 +1,211 @@
+input[class=btn]{
+	text-align: left;
+	height: 25px;
+}
+
+.registration{
+	margin-top:50px;
+	background: url('assets/img/Beautiful_Background/1.jpg');
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.8);
+}
+.thumbnail{
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
+}
+.navbar-inner{
+	background:url('assets/img/Beautiful_Background/19.jpg');
+	height:50px;
+	width:100%;
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.8);
+	position: fixed;
+}
+
+.background{
+	height:60px;
+	width:100%;
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.icon-remove{
+	color:red;
+}
+
+.font{
+	color:white;
+	font-family: century gothic;
+	position: fixed;
+}
+
+.thumbnail{
+	background-color: white;
+}
+
+.icon{
+	height: 20px;
+	width: 20px;
+}
+
+.form{
+	margin-top: 10px;
+}
+
+.time{
+    margin-left: 650px;
+}
+
+.pic{
+	margin-top: 10px;
+	height: 30px;
+	width: 30px;
+}
+
+.font1{
+	color: green;
+	margin-top: 10px;
+}
+
+.table1{
+	margin-left: 10px;
+}
+
+input[type=radio]{
+	margin-left: 20px;
+}
+
+#tube{ width:200px; height:50px; float:left;background:#FFFFFF;width:200px;}
+
+input[type=text]{
+	height: 35px;
+}
+
+input[type=email]{
+    height: 35px;
+}
+
+input[type=password]{
+	height: 35px;
+}
+
+input[type=text]:active{
+	background-color: yellow;
+}
+
+input[type=password]:active{
+	background-color: yellow;
+}
+
+.font2{
+	color: black;
+}
+
+.font3{
+	color:black;
+}
+
+.Oras{
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 18px;
+	color: #FF0000;
+	text-align: center;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    vertical-align: middle;
+    cursor: pointer;
+     border: 1px solid #bbbbbb;
+    *border: 0;
+    background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));
+    background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);
+    background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);
+    background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+    background-repeat: repeat-x;
+    border: 1px solid #bbbbbb;
+    border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    border-bottom-color: #a2a2a2;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    *zoom: 1;
+    background-color: #f5f5f5;
+    *background-color: #e6e6e6;
+}
+
+.labe {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: "Arial", cursive;
+}
+
+.email{
+	height:40px;
+	text-align: left;
+}
+
+.font4{
+	font-family:Tempus Sans ITC;
+	color:white;
+	font-size:30px;
+}
+
+.font5{
+	font-family:arial;
+	color:white;
+	font-size:25px;
+}
+
+.font6{
+	font-size: 18px;
+	font-family: comic Sans ms;
+	color: gold;
+}
+
+.font7{
+	font-size: 20px;
+	font-family: century gothic;
+	color: skyblue;
+}
+
+#Test_Question{
+	left:0px;
+	bottom:0px;
+}
+
+.font8{
+	font-family: Century Gothic;
+	font-size: 20px;
+	color:blue;
+}
+
+.font9{
+	font-family: Century Gothic;
+	font-size: 30px;
+	color:black;
+	font-weight: bold;
+}
+
+.font10{
+	color:white;
+}
+
+a{
+	text-decoration: none;
+}
+
+.fontS{
+	font-size: 20px;
+	margin-right: 0px;
+	margin-left: 60%;
+}
+
+div.thumbnail.container.span12 > div.span12{
+	background:url('assets/img/yellow3.jpg'); 
+}
+
+.font11{
+	font-family: Century Gothic;
+	font-size: 30px;
+	color:white;
+	font-weight: bold;
+}
